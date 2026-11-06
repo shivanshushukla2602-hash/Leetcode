@@ -9,22 +9,23 @@ public:
     
     void push(int val) {
         um[val]++;
-        int freq = um[val];
-        
-        if(fs.find(freq) == fs.end()){
-            stack<int> st;
-            fs[freq] = st;
+        int f = um[val];
+
+        if(fs.find(f) == fs.end()){
+            stack<int> s;
+            fs[f] = s;
         }
-        fs[freq].push(val);
+
+        fs[f].push(val);
     }
     
     int pop() {
-        int freq = fs.size();
-        int elem = fs[freq].top();
-        fs[freq].pop();
+        int f = fs.size();
+        int elem = fs[f].top();
+        fs[f].pop();
 
-        if(fs[freq].size() == 0){
-            fs.erase(freq);
+        if(fs[f].size() == 0){
+            fs.erase(f);
         }
 
         um[elem]--;
