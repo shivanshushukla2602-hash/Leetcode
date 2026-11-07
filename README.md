@@ -76,6 +76,7 @@
 | [0020-valid-parentheses](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
