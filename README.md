@@ -47,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -137,4 +139,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
