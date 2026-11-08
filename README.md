@@ -51,6 +51,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Divide and Conquer
@@ -86,6 +87,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -105,6 +107,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Ordered Set
 |  |
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
