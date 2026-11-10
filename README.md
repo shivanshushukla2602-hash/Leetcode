@@ -58,6 +58,7 @@
 | [1046-last-stone-weight](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [1046-last-stone-weight](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Ordered Set
 |  |
 | ------- |
@@ -184,6 +188,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bucket Sort
 |  |
@@ -197,4 +202,5 @@
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
