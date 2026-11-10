@@ -51,6 +51,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -59,20 +60,24 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -109,6 +114,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Ordered Set
@@ -172,4 +178,12 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
