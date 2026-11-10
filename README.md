@@ -47,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -174,6 +175,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Matrix
@@ -203,6 +205,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0055-jump-game) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
