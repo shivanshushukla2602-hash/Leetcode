@@ -55,6 +55,7 @@
 | [0239-sliding-window-maximum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1046-last-stone-weight) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Linked List
 |  |
 | ------- |
