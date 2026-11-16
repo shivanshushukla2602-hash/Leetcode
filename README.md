@@ -47,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0078-subsets) |
@@ -133,6 +134,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0895-maximum-frequency-stack) |
