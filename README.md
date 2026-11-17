@@ -15,6 +15,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0669-trim-a-binary-search-tree](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -57,6 +58,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0739-daily-temperatures) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -88,6 +91,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -203,6 +207,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
