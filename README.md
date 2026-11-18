@@ -62,6 +62,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -84,6 +85,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -97,6 +99,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -112,6 +115,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1544-make-the-string-great) |
@@ -149,6 +153,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0895-maximum-frequency-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1748-sum-of-unique-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -234,11 +239,13 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1748-sum-of-unique-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Greedy
 |  |
@@ -257,4 +264,8 @@
 | ------- |
 | [0078-subsets](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0090-subsets-ii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
