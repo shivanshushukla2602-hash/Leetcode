@@ -71,6 +71,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2233-maximum-product-after-k-increments](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
@@ -104,6 +105,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
@@ -253,6 +255,7 @@
 | [0045-jump-game-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0055-jump-game) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [2233-maximum-product-after-k-increments](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
 |  |
