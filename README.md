@@ -93,6 +93,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
@@ -123,6 +124,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1544-make-the-string-great) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2390-removing-stars-from-a-string](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -160,6 +162,7 @@
 | [0692-top-k-frequent-words](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0895-maximum-frequency-stack](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1748-sum-of-unique-elements](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Ordered Set
@@ -260,6 +263,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2233-maximum-product-after-k-increments](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivanshushukla2602-hash/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
